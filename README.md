@@ -10,7 +10,6 @@ This project is a web page that displays the balance sheet of AcmeWidgetCorp for
 - Setup
 - Usage
 - Contributing
-- License
 
 ## Overview
 
